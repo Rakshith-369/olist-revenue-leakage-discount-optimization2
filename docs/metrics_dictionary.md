@@ -3,9 +3,9 @@
 **Grain:** 1 row per `order_item_sk`
 
 ## Revenue Metrics
-- **Gross Revenue**  
-  Definition: [REPLACE: e.g., SUM(price) or SUM(price + freight_value)]  
-  Notes: Must match Tableau measure exactly.
+- **Gross Revenue**
+  - Definition: `SUM(price)`
+  - Notes: Must match Tableau measure exactly.
 
 - **Discount Amount**  
   Source: `discounts_one` (deduped)  
