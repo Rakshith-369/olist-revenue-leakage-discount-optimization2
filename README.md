@@ -52,3 +52,5 @@ Included views:
 - Discount vs Refund split by product category
 - Top leakage categories ($)
 - Top leakage categories (%), with minimum gross revenue filter (LOD) to avoid misleading small categories
+
+Full details: [Metrics Dictionary](docs/metrics_dictionary.md)
