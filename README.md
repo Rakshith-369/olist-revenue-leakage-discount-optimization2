@@ -1,6 +1,6 @@
 # Revenue Leakage & Discount Optimization (Olist) — SQL Server + Tableau Public
 
-**Dashboard (Tableau Public):** (https://public.tableau.com/views/olistinprogress/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+**Dashboard (Tableau Public):** https://public.tableau.com/views/olistinprogress/Dashboard1
 
 ## Executive Summary
 This project builds a grain-safe revenue model at the **order-item level** to quantify revenue leakage from **discounts + refunds**, then visualizes trends and category drivers in Tableau.
